@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7f15f1c9-632b-4604-8a9d-882f7ff4277b" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/template-book.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="41" column="22" selection-start-line="41" selection-start-column="22" selection-end-line="41" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/template-who.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="16575">
+              <caret line="975" column="34" selection-start-line="975" selection-start-column="34" selection-end-line="975" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/front-page.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="578">
+              <caret line="34" column="14" selection-start-line="13" selection-start-column="8" selection-end-line="34" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>section.pageheader .container .info</find>
+      <find>section.single .row .col2</find>
+      <find>.row .col</find>
+      <find>blog</find>
+      <find>podcast_file</find>
+      <find>section.default .content .right p</find>
+      <find>section.defaul</find>
+      <find>social</find>
+      <find>.center</find>
+      <find>section.default#header .menu</find>
+      <find>header-men</find>
+      <find>header-menu-hamburger</find>
+      <find>.header-menu-hamburger .menu</find>
+      <find>.points</find>
+      <find>pencil</find>
+      <find>.about .info</find>
+      <find>.info</find>
+      <find>.phone</find>
+      <find>992</find>
+      <find>mail</find>
+      <find>section.default h1</find>
+      <find>.header</find>
+      <find>.half.left</find>
+      <find>.half.left .header</find>
+      <find>section.frontpage .half.right .about</find>
+      <find>.stripes</find>
+      <find>section.default .content .left</find>
+      <find>book</find>
+      <find>#header</find>
+      <find>section.default.book</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/components/footer.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/template-work.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/header.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/front-page.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/template-partner.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/style.css" />
+        <option value="$PROJECT_DIR$/functions.php" />
+        <option value="$PROJECT_DIR$/components/header.php" />
+        <option value="C:/Homestead/Homestead.yaml" />
+        <option value="C:/Windows/System32/drivers/etc/hosts" />
+        <option value="$PROJECT_DIR$/template-who.php" />
+        <option value="$PROJECT_DIR$/template-work.php" />
+        <option value="$PROJECT_DIR$/template-contact.php" />
+        <option value="$PROJECT_DIR$/template-what.php" />
+        <option value="$PROJECT_DIR$/front-page.php" />
+        <option value="$PROJECT_DIR$/book-launch.php" />
+        <option value="$PROJECT_DIR$/style.css" />
+        <option value="$PROJECT_DIR$/template-book.php" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-29" />
+    <option name="y" value="92" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="edwardswiermedia" type="b2602c69:ProjectViewProjectNode" />
+              <item name="edwardswiermedia" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\menno\sandwichdigital_dev\2019\Edward Swier Media\dev\wp-content\themes\edwardswiermedia" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7f15f1c9-632b-4604-8a9d-882f7ff4277b" name="Default" comment="" />
+      <created>1525974478722</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1525974478722</updated>
+      <workItem from="1525974479949" duration="4883000" />
+      <workItem from="1526031552262" duration="615000" />
+      <workItem from="1526376359091" duration="7227000" />
+      <workItem from="1526418078953" duration="68000" />
+      <workItem from="1527592317263" duration="1214000" />
+      <workItem from="1527939801634" duration="5086000" />
+      <workItem from="1527957653005" duration="7441000" />
+      <workItem from="1528135131974" duration="134000" />
+      <workItem from="1528978074971" duration="6277000" />
+      <workItem from="1529054399711" duration="381000" />
+      <workItem from="1530549885298" duration="2273000" />
+      <workItem from="1530697522409" duration="2050000" />
+      <workItem from="1530725711011" duration="380000" />
+      <workItem from="1530729004588" duration="1513000" />
+      <workItem from="1530781487654" duration="278000" />
+      <workItem from="1530964507500" duration="597000" />
+      <workItem from="1531076332160" duration="6149000" />
+      <workItem from="1531299950159" duration="95000" />
+      <workItem from="1531825058100" duration="5394000" />
+      <workItem from="1531845944806" duration="2198000" />
+      <workItem from="1531995938794" duration="5575000" />
+      <workItem from="1532186963839" duration="106000" />
+      <workItem from="1532421369574" duration="3953000" />
+      <workItem from="1574277675175" duration="4581000" />
+      <workItem from="1574671740280" duration="174000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="68642000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../../../../../../../../h/horns inda house/website/development/wip/public/wp-content/themes/hornsindatheme/template-about.php" />
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../../../../../h/horns inda house/website/development/wip/public/wp-content/themes/hornsindatheme/components/footer.php" />
+    <entry file="file://$PROJECT_DIR$/../../../../../../../../h/horns inda house/website/development/wip/public/wp-content/themes/hornsindatheme/components/header.php" />
+    <entry file="file://$PROJECT_DIR$/components/footer.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/hover.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="1245" selection-start-line="1245" selection-end-line="1284" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../../../../../h/horns inda house/website/development/wip/public/wp-content/themes/hornsindatheme/functions.php" />
+    <entry file="file://$PROJECT_DIR$/../../../../../../../../s/sportcommunity/frontpage_dev/wip/public/wp-content/themes/sportcommunity/components/header.php" />
+    <entry file="file://$PROJECT_DIR$/../../../../../../../../s/sportcommunity/frontpage_dev/wip/public/wp-content/themes/sportcommunity/functions.php" />
+    <entry file="file://$PROJECT_DIR$/../../../../../../../../s/sportcommunity/frontpage_dev/wip/public/wp-content/themes/sportcommunity/front-page.php" />
+    <entry file="file://$PROJECT_DIR$/../../../../../../../../s/sportcommunity/frontpage_dev/wip/public/wp-content/themes/sportcommunity/style.css" />
+    <entry file="file://C:/2017/s/sandwich_digital/web development/wip/public/assets/css/style.css" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/template-work.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/header.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/front-page.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/template-partner.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/style.css" />
+    <entry file="file://C:/Homestead/Homestead.yaml" />
+    <entry file="file://C:/Windows/System32/drivers/etc/hosts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="29" lean-forward="true" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="76" selection-start-line="7" selection-start-column="76" selection-end-line="7" selection-end-column="76" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../../../../../h/horns inda house/website/development/wip/public/wp-content/themes/hornsindatheme/style.css" />
+    <entry file="file://$PROJECT_DIR$/../../../../../../../../h/horns inda house/website/development/wip/public/wp-content/themes/hornsindatheme/front-page.php" />
+    <entry file="file://$PROJECT_DIR$/template-work.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="10" lean-forward="true" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template-contact.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="152" selection-start-line="9" selection-start-column="152" selection-end-line="9" selection-end-column="152" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1173">
+          <caret line="69" column="18" selection-start-line="69" selection-start-column="9" selection-end-line="69" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template-what.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book-launch.php" />
+    <entry file="file://$PROJECT_DIR$/template-book.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="41" column="22" selection-start-line="41" selection-start-column="22" selection-end-line="41" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template-who.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16575">
+          <caret line="975" column="34" selection-start-line="975" selection-start-column="34" selection-end-line="975" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front-page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" column="14" selection-start-line="13" selection-start-column="8" selection-end-line="34" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
